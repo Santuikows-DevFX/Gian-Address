@@ -1,0 +1,12 @@
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\bin\Debug\RealTimeAddress.exe.config
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\bin\Debug\RealTimeAddress.exe
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\bin\Debug\RealTimeAddress.pdb
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\bin\Debug\AutoClosingMessageBox.dll
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.Properties.Resources.resources
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.csproj.CopyComplete
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.exe
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.pdb
+C:\Users\joshu\source\repos\RealTimeAddress\RealTimeAddress\obj\Debug\RealTimeAddress.Address.resources
